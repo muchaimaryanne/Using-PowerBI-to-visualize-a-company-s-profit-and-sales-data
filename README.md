@@ -24,4 +24,4 @@ To get started with this PowerBI project, simply download the repository and ope
 Whether you're a PowerBI beginner or an experienced data analyst, this project is a great resource for anyone looking to improve their data analysis and visualization skills.
 
 # Screenshots
-![A beautiful sunset](images/dashboard.PNG)
+![The Dashboard](images/dashboard.PNG)
