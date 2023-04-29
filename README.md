@@ -10,10 +10,10 @@ Whether you're a business owner, data analyst, or anyone else interested in gain
 Features:
 
 
-Interactive and dynamic dashboards and reports
-Real-time data analysis and visualization
-Comprehensive overview of profit and sales data
-Easy to use and customize
+1. Interactive and dynamic dashboards and reports
+2. Real-time data analysis and visualization
+3. Comprehensive overview of profit and sales data
+4. Easy to use and customize
 
 Instructions:
 
